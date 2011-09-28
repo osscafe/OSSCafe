@@ -8,8 +8,8 @@
  80    PRINT"OpenSource  Cafe!"
  90    FOR W=0 TO 200
 100    NEXT W
-110   LOCATE X, Y
-115   PRINT "                 "
+110    LOCATE X, Y
+115    PRINT "                 "
 120   NEXT Y
 130  NEXT B
 140 NEXT F
