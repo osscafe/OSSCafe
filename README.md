@@ -5,10 +5,9 @@
 なので、残念ながらプログラムのソースコードはあまり含まれていませんが、設計図などが含まれます。
 OSSCafeを参考にカフェを開設する場合は、ぜひGitHub上でフォークしてください。
 
-## リーフレット
+## マニュアル
 
-* [A5チラシ](https://github.com/osscafe/OSSCafe/raw/master/leaflet/A5.pdf)
-* [食品衛生責任者プレート](https://github.com/osscafe/OSSCafe/raw/master/leaflet/health-manager.pdf)
+* [一日店長マニュアル](https://github.com/osscafe/OSSCafe/blob/master/manual/1-day-chief.md)
 
 ## [カフェメニュー](https://github.com/osscafe/OSSCafe/blob/master/menu/menu.md)
 
@@ -24,3 +23,9 @@ OSSCafeを参考にカフェを開設する場合は、ぜひGitHub上でフォ�
 	* [アイスエスプレッソ](https://github.com/osscafe/OSSCafe/blob/master/menu/iced-espresso.md)
 	* アイスカプチーノ
 	* セパレートティ (グレープフルーツ + アールグレイティ)
+	
+
+## リーフレット
+
+* [A5チラシ](https://github.com/osscafe/OSSCafe/raw/master/leaflet/A5.pdf)
+* [食品衛生責任者プレート](https://github.com/osscafe/OSSCafe/raw/master/leaflet/health-manager.pdf)
