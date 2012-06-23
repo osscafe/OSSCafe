@@ -8,6 +8,8 @@ OSSCafeを参考にカフェを開設する場合は、ぜひGitHub上でフォ�
 ## マニュアル
 
 * [一日店長マニュアル](https://github.com/osscafe/OSSCafe/blob/master/manual/1-day-chief.md)
+* [開店時の作業](https://github.com/osscafe/OSSCafe/blob/master/manual/open-task.md)
+* [閉店時の作業](https://github.com/osscafe/OSSCafe/blob/master/manual/closing-task.md)
 
 ## [カフェメニュー](https://github.com/osscafe/OSSCafe/blob/master/menu/menu.md)
 
