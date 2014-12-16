@@ -13,6 +13,10 @@
 5. 暖かいドリンクは、、、冷たいのだと、、、
 6. 何にしましょうか？
 
+## レジの使い方
+
+レジは [Square](https://squareup.com/jp/) を使っています。[Square レジマニュアル](https://squareup.com/help/jp/ja/article/5123-square)をご覧ください。
+
 ## DONE割の説明
 
 初めて来られた方にはDONE割を説明してください。初めてではない方には「DONE割書いていきますか？」と声をかけてみましょう。
