@@ -23,12 +23,13 @@ OSSCafeを参考にカフェを開設する場合は、ぜひGitHub上でフォ�
 	* [カフェラテ](https://github.com/osscafe/OSSCafe/blob/master/menu/latte.md)
 	* [紅茶・中国茶](https://github.com/osscafe/OSSCafe/blob/master/menu/tea.md) (全種)
 * COLD
+	* [ジンジャーエール](https://github.com/osscafe/OSSCafe/blob/master/menu/bottled-drinks.md)
+	* [オレンジジュース](https://github.com/osscafe/OSSCafe/blob/master/menu/bottled-drinks.md)
+	* [コカコーラ](https://github.com/osscafe/OSSCafe/blob/master/menu/bottled-drinks.md)
 	* アップルタイザー (PURPOM)
-	* シークワーサー炭酸
 	* [アイスエスプレッソ](https://github.com/osscafe/OSSCafe/blob/master/menu/iced-espresso.md)
 	* アイスカプチーノ
-	* セパレートティ (グレープフルーツ + アールグレイティ)
-	
+
 
 ## リーフレット
 
