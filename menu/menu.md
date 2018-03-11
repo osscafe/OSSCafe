@@ -6,7 +6,8 @@
 * HOT
 	* エスプレッソ (RISTRETTO / LIVANTO / COSI)
 	* コーヒー (FORTISSIO / VIVALTO / FINEZZO)
-	* 紅茶・中国茶 (オレンジペコ / ジャスミン / プーアール)
+	* 紅茶
+	* 中国茶 (ジャスミン / プーアール)
 * COLD
 	* アップルタイザー (PURPOM)
 	* ジンジャーエール
@@ -17,7 +18,8 @@
 * HOT
 	* エスプレッソ (全種)
 	* コーヒー (FORTISSIO / VIVALTO / FINEZZO)
-	* 紅茶・中国茶 (全種)
+	* 紅茶
+	* 中国茶 (ジャスミン / プーアール)
 * COLD
 	* アップルタイザー (PURPOM)
 	* ジンジャーエール
@@ -29,7 +31,8 @@
 * HOT
 	* エスプレッソ (全種)
 	* コーヒー (FORTISSIO / VIVALTO / FINEZZO)
-	* 紅茶・中国茶 (全種)
+	* 紅茶
+	* 中国茶 (ジャスミン / プーアール)
 * COLD
 	* アップルタイザー (PURPOM)
 	* ジンジャーエール
